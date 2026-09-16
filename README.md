@@ -1,16 +1,15 @@
-# React + Vite
+# DevStack Builder Website (Assignment A-5)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive React web application built with *Vite, **Tailwind CSS, and **React-Toastify*. This platform empowers developers to explore a curated list of modern web development technologies and build their custom tech stack seamlessly.
 
-Currently, two official plugins are available:
+## 🚀 Live Features & Project Overview
+- *Dynamic Data Rendering:* Fetches technology data from a local JSON dataset (technologies.json).
+- *Interactive Tech Stack Builder:* Add or remove technologies to your custom stack in real-time.
+- *Category Filtering:* Filter technologies instantly by categories like Frontend, Backend, Database, DevOps, etc.
+- *Duplicate Prevention & Toast Alerts:* Styled notification toasts (powered by react-toastify) alert users when items are added, already existing, or removed.
+- *Responsive Design:* Fully optimized layout for mobile, tablet, and desktop screens.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Built With
+- *React (Vite)* - Fast frontend development environment
+- *Tailwind CSS* - Utility-first styling framework
+- *React-Toastify* - Notification system
