@@ -1,0 +1,122 @@
+[
+  {
+    "id": "react-frontend",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building modern dynamic user interfaces.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "node-backend",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "An asynchronous event-driven JavaScript runtime engineered to build scalable network services.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "postgres-db",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful enterprise-grade open-source object-relational database with heavy SQL compliance.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+  },
+  {
+    "id": "tailwind-styling",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework packed with classes that can be composed to build any design.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "ts-language",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": "docker-devops",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "Accelerates how applications are built, shared, and run through lightweight container virtualization.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+    "rating": 4.7,
+    "difficulty": "Advanced",
+    "badge": "Containers"
+  },
+  {
+    "id": "mongo-db",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A modern NoSQL document database designed for high speed processing and enterprise scalability.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Flexible"
+  },
+  {
+    "id": "nextjs-fullstack",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "The React framework for the web, enabling fullstack web application development and SSR.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    "rating": 4.9,
+    "difficulty": "Advanced",
+    "badge": "Full-Stack"
+  },
+  {
+    "id": "git-vcs",
+    "name": "Git",
+    "category": "Tools",
+    "description": "A free and open source distributed version control system designed to handle everything from small to large projects.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "express-server",
+    "name": "Express.js",
+    "category": "Backend",
+    "description": "Fast, unopinionated, minimalist web framework for Node.js applications and API creation.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+  },
+  {
+    "id": "python-lang",
+    "name": "Python",
+    "category": "Language",
+    "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+  },
+  {
+    "id": "redis-cache",
+    "name": "Redis",
+    "category": "Database",
+    "description": "An open source, in-memory data store used by millions of developers as a database, cache, and streaming engine.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Fast Cache"
+  }
+]
